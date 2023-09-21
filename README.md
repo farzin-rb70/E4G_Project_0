@@ -1,24 +1,24 @@
 # E4G_Project_0
 
-## Project BackLog:
-1. supply 12-24V AC or DC
-2. core V3S allwiner
-3. Lcd 7Inch LVDS 40Pin
+## Project Backlog:
+1. Supply 12-24V AC or DC
+2. Core V3S Allwinner
+3. LCD 7-Inch LVDS 40-Pin
 4. Connections:
-   1. RS422 (non isolate Connection, jst-2mm socket)
-   2. RS485 (non isolate Connection, jst-2mm socket)
+   - RS422 (non-isolated connection, JST-2mm socket)
+   - RS485 (non-isolated connection, JST-2mm socket)
 5. SD Card with SWID or HSPI interface
 6. Buzzer
 
-## Project schematic rules:
+## Project Schematic Rules:
 
-1.  any blocks has specific sheet
-2.  File annotation format : UpperCamelCase
-3.  schematic sheet size must be A4
-4.  Grids must be set on 50mil
-5.  you should be use from builtin library that's hasve a valid link to Digikey.com or other online supplyers like Mouser
-6.  power nets used like altium samples
-7.  NetLabel or ports text Format : UpperCamelCase
-8.  sheet input and outputs used port and sheet entrys
-9.  ports must have a right flow
-10. PCB rules must be added on shematic
+- Each block must have a specific sheet.
+- File annotation format: UpperCamelCase.
+- Schematic sheet size must be A4.
+- Grids must be set at 50mil.
+- Utilize the built-in library with valid links to suppliers like [Digikey](https://www.digikey.com) or [Mouser](https://www.mouser.com).
+- Follow power nets conventions similar to Altium samples.
+- NetLabel or ports text format: UpperCamelCase.
+- Use ports for sheet inputs and outputs.
+- Ensure that ports have the correct flow.
+- Include PCB rules in the schematic.
