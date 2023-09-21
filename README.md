@@ -22,3 +22,9 @@
 - Use ports for sheet inputs and outputs.
 - Ensure that ports have the correct flow.
 - Include PCB rules in the schematic.
+
+## Commit Message Guidelines
+
+We follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification for our project's commit messages. This helps maintain a standardized format for commit messages, making it easier to understand the purpose and context of each change in our project.
+
+
