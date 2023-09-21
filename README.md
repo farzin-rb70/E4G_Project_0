@@ -10,6 +10,8 @@
 5. SD Card with SWID or HSPI interface
 6. Buzzer
 
+![Alt Text](https://github.com/farzin-rb70/E4G_Project_0/blob/main/Doc/High-level-design.png)
+
 ## Project Schematic Rules:
 
 - Each block must have a specific sheet.
@@ -22,6 +24,7 @@
 - Use ports for sheet inputs and outputs.
 - Ensure that ports have the correct flow.
 - Include PCB rules in the schematic.
+  
 
 ## Commit Message Guidelines
 
