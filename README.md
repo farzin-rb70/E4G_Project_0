@@ -10,7 +10,7 @@
 5. SD Card with SWID or HSPI interface
 6. Buzzer
 
-![Alt Text](https://github.com/farzin-rb70/E4G_Project_0/blob/main/Doc/High-level-design.png)
+![Alt Text](./Doc/High-level-design.png)
 
 ## Project Schematic Rules:
 
