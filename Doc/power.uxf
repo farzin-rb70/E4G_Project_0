@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>19</zoom_level>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>817</x>
+      <y>228</y>
+      <w>190</w>
+      <h>76</h>
+    </coordinates>
+    <panel_attributes>xc6206
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLObject</id>
+    <coordinates>
+      <x>456</x>
+      <y>38</y>
+      <w>608</w>
+      <h>513</h>
+    </coordinates>
+    <panel_attributes>Power
+valign=top</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>817</x>
+      <y>342</y>
+      <w>190</w>
+      <h>76</h>
+    </coordinates>
+    <panel_attributes>mp1584
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>494</x>
+      <y>342</y>
+      <w>190</w>
+      <h>76</h>
+    </coordinates>
+    <panel_attributes>input mosfet 
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>494</x>
+      <y>228</y>
+      <w>190</w>
+      <h>76</h>
+    </coordinates>
+    <panel_attributes>ea3036
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>494</x>
+      <y>114</y>
+      <w>190</w>
+      <h>76</h>
+    </coordinates>
+    <panel_attributes>esd protection 
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>817</x>
+      <y>114</y>
+      <w>190</w>
+      <h>76</h>
+    </coordinates>
+    <panel_attributes>EMI filter
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>494</x>
+      <y>456</y>
+      <w>190</w>
+      <h>76</h>
+    </coordinates>
+    <panel_attributes>phoenix socket
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
